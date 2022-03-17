@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8f0c329-329f-4ad5-abd4-da5205ecd88a": {
+      "ProjectGuid": "b8f0c329-329f-4ad5-abd4-da5205ecd88a",
+      "DisplayName": "Repeat_AM",
+      "ColorIndex": 0
+    },
+    "2a3f1f58-2a9b-4ffb-90d0-05d380c428f7": {
+      "ProjectGuid": "2a3f1f58-2a9b-4ffb-90d0-05d380c428f7",
+      "DisplayName": "Lib",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

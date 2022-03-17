@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yIcRztlasPAMhjuRWZ98SarcSLlelIpy/uj8QlUSyqWlORuUP94SeRGGOhxG+rwM5vsIWIbotT/i31D02NVy6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asger\\Desktop\\Tasks\\Repeat_AM\\Repeat_AM\\Repeat_AM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
